@@ -6,7 +6,7 @@ Hi, I'm **Jyothi Urade**👋
 
 🧰 Toolbox: Linux • Git & GitHub • GitLab CI/CD • Jenkins • Docker • Kubernetes • SonarQube • Trivy • NGINX • Maven • Bash
 
-✍️ I write detailed guides on Hashnode → From Cloud to Ops
+✍️ I write detailed guides on Hashnode →  [FromCloudToOps](https://fromcloudtoops.hashnode.dev/)
 
 ---
 
