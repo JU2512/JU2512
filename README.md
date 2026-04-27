@@ -85,7 +85,7 @@ AI-assisted portfolio website designed and deployed using Vercel.
 
 ---
 
-# 📖 What I’m Building
+#  What I’m Building
 
 I focus on QA projects, software testing, and AI-assisted applications while continuously improving my practical skills.
 
