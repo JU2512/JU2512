@@ -1,76 +1,109 @@
-Hi, I'm **Jyothi Urade**👋
+# Hi, I'm Jyothi Urade 
 
-🌱 I’m an aspiring **DevOps & Cloud Engineer** learning in public. I build small, real projects and document everything I learn.
+I’m an aspiring **QA Engineer | API Tester | Manual Tester** learning in public by building practical projects, testing real applications, and documenting my journey.
 
-🔭 Current focus: CI/CD, containerization, Kubernetes, and DevSecOps
-
-🧰 Toolbox: Linux • Git & GitHub • GitLab CI/CD • Jenkins • Docker • Kubernetes • SonarQube • Trivy • NGINX • Maven • Bash
-
-✍️ I write detailed guides on Hashnode →  [FromCloudToOps](https://fromcloudtoops.hashnode.dev/)
+**Current Focus:**
+API Testing • Manual Testing • Postman • Newman • Test Documentation • AI-Assisted Development
 
 ---
 
-🚀 **Flagship Project**
+# Toolbox
 
-### Full‑Stack GitLab CI/CD with Kubernetes & Security
+**Testing & QA:**
+Postman • Newman • Manual Testing • Test Cases • Test Scenarios • Bug Reporting • API Validation • HTML Reports • Functional Testing
 
-End‑to‑end pipeline for a sample Boardgame app with build, test, code quality, security scans, image build/push, and deploy to Kubernetes.
-
-📖 Blog walkthrough (screenshots + steps): [https://fromcloudtoops.hashnode.dev/setting-up-a-full-stack-gitlab-cicd-pipeline-for-a-boardgame-project](https://fromcloudtoops.hashnode.dev/setting-up-a-full-stack-gitlab-cicd-pipeline-for-a-boardgame-project)
-
-💻 Source code repo: \[ADD YOUR REPO LINK HERE]
-
-🧪 Stages: build → test → SonarQube → Trivy → docker build/push → deploy (kubectl)
-
-🔐 Security: SonarQube (quality & SAST), Trivy (image scan), secrets via GitLab CI variables
-
-📸 Screenshots:
-
-* **Pipeline stages:**
-  ![GitLab CI/CD Pipeline](./images/gitlab-pipeline.png)
-
-* **Deployment success:**
-  ![Deployment Screenshot](./images/deployed-website.png)
-
-* **SonarQube report:**
-  ![SonarQube Report](./images/sonarqube.png)
+**Development & Collaboration:**
+Git • GitHub • Prompt Engineering • AI Tools • Vercel Deployment
 
 ---
 
-📝 **Selected Blog Posts**
+# Featured Projects
 
-**DevSecOps & CI/CD**
+## OpenCart API Automation Testing Project
 
-* [SonarQube Setup with SSL & HTTPS](https://fromcloudtoops.hashnode.dev/sonarqube-setup-with-ssl-and-https)
-* [Integrating HashiCorp Vault with Jenkins](https://fromcloudtoops.hashnode.dev/integrating-hashicorp-vault-with-jenkins-for-secure-secret-management)
-* [Jenkins LDAP Integration with RBAC](https://fromcloudtoops.hashnode.dev/jenkins-ldap-integration-with-rbac-step-by-step-guide)
-* [GitHub Webhook Trigger with Jenkins (Docker + Ngrok)](https://fromcloudtoops.hashnode.dev/setting-up-github-webhook-trigger-with-jenkins-locally-using-docker-ngrok)
+End-to-end API automation workflow for OpenCart using Postman + Newman covering Login → Add to Cart → Retrieve Cart → Update Quantity → Remove Product.
 
-**Cloud & Mini Projects**
+### Highlights:
 
-* [AWS Free Tier DevOps mini project (Jenkins + Docker agent + email)](https://fromcloudtoops.hashnode.dev/aws-free-tier-devops-mini-project-jenkins-docker-agent-email-notifications)
-* [Host static site with NGINX (reverse proxy & basics)](https://fromcloudtoops.hashnode.dev/how-to-set-up-nginx-as-a-reverse-proxy-for-a-nodejs-app)
-
-**Scripting & Monitoring**
-
-* [Website Monitoring & Log Archiving with Bash](https://fromcloudtoops.hashnode.dev/project-1-website-monitoring-and-log-archiving-with-bash)
-
-**Application Setups**
-
-* [3‑Tier Node.js + MySQL (local)](https://fromcloudtoops.hashnode.dev/building-a-3-tier-nodejs-mysql-project-locally)
-* [3‑Tier Python + PostgreSQL (local)](https://fromcloudtoops.hashnode.dev/building-a-3-tier-python-postgresql-project-locally)
-
-➡️ [See all posts](https://fromcloudtoops.hashnode.dev/)
+* Dynamic environment variables (`api_token`, `cart_id`)
+* Request chaining across multiple APIs
+* Automated assertions for business flow validation
+* Newman CLI execution
+* HTML reporting
+* API debugging & response validation
 
 ---
 
-🧠 **What I’m Learning Next**
-Terraform (IaC) • Helm charts • Prometheus + Grafana • Docker
+## OpenCart Manual Testing Project
+
+Comprehensive manual testing project focused on validating OpenCart functionality through structured QA practices.
+
+### Highlights:
+
+* Test scenarios
+* Detailed test cases
+* Functional testing
+* Defect identification & reporting
+* QA documentation
 
 ---
 
-📫 **Connect**
+## Gratido – Food Donation App (Final Year Project | Team of 2)
 
-* Blog: [https://fromcloudtoops.hashnode.dev/](https://fromcloudtoops.hashnode.dev/)
-* Email: [jyothiurade874@gmail.com](mailto:jyothiurade874@gmail.com)
-* LinkedIn: [https://www.linkedin.com/in/jyothi-urade/](https://www.linkedin.com/in/jyothi-urade/)
+A collaborative final-year project focused on creating a food donation platform to connect donors and beneficiaries.
+
+### Contribution:
+
+* Team collaboration in project development
+* AI-assisted development workflow
+* Prompt Engineering integration
+* Product planning & execution
+
+---
+
+## ExamNector – AI-Powered Notes Generator
+
+AI-powered educational platform developed through rapid AI-assisted building.
+
+### Highlights:
+
+* Prompt Engineering workflow
+* AI-assisted product creation
+* Productivity-focused solution
+
+---
+
+## Interior Designer Portfolio Website
+
+AI-assisted portfolio website designed and deployed using Vercel.
+
+### Highlights:
+
+* Vibe coding approach
+* AI-supported design & development
+* Live deployment
+
+---
+
+# 📖 What I’m Building
+
+I focus on QA projects, software testing, and AI-assisted applications while continuously improving my practical skills.
+
+---
+
+# Currently Learning Next
+
+Selenium • Advanced API Testing • SQL for Testing • Automation Frameworks • Real-world QA Practices
+
+---
+
+# Connect
+
+**LinkedIn:** https://www.linkedin.com/in/jyothi-urade/
+**Email:** [jyothiurade874@gmail.com](mailto:jyothiurade874@gmail.com)
+
+---
+
+# About Me
+
+I enjoy testing software, building practical projects, and using AI tools to create and improve real-world solutions.
