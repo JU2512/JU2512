@@ -48,7 +48,7 @@ Comprehensive manual testing project focused on validating OpenCart functionalit
 
 ---
 
-## Gratido – Food Donation App (Final Year Project | Team of 2)
+## Gratido – Food Donation App (Final Year Project)
 
 A collaborative final-year project focused on creating a food donation platform to connect donors and beneficiaries.
 
